@@ -1,0 +1,52 @@
+2019-01-03 11:03:10,031 INFO 39806 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 11:03:10,031 INFO 39806 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 11:03:10,161 INFO 39805 [Timer] /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46609843ms at 2019-01-04 00:00:00.004
+2019-01-03 11:03:10,162 INFO 39805 [Timer] /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46610839ms at 2019-01-04 00:00:01.000
+2019-01-03 11:03:30,213 INFO 40032 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 11:03:30,213 INFO 40032 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 11:03:42,909 INFO 40253 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 11:03:42,909 INFO 40253 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 11:03:43,011 INFO 40152 [Timer] /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46576992ms at 2019-01-04 00:00:00.003
+2019-01-03 11:03:43,012 INFO 40152 [Timer] /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46577988ms at 2019-01-04 00:00:01.000
+2019-01-03 11:03:56,481 INFO 40362 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 11:03:56,481 INFO 40362 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 11:03:57,448 INFO 40368 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 11:03:57,448 INFO 40368 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 11:04:36,922 INFO 40806 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 11:04:36,922 INFO 40806 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 11:04:38,875 INFO 40807 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 11:04:38,875 INFO 40807 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 11:45:25,199 INFO 65822 [Timer] /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44074805ms at 2019-01-04 00:00:00.004
+2019-01-03 11:45:25,200 INFO 65822 [Timer] /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44075800ms at 2019-01-04 00:00:01.000
+2019-01-03 11:45:25,057 INFO 65823 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 11:45:25,057 INFO 65823 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 11:54:58,361 INFO 71616 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 11:54:58,361 INFO 71616 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 11:55:11,285 INFO 71734 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 11:55:11,285 INFO 71734 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 11:55:28,125 INFO 71964 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 11:55:28,125 INFO 71964 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 11:55:44,623 INFO 72191 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 11:55:44,623 INFO 72191 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 12:00:20,249 INFO 75011 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 12:00:20,249 INFO 75011 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 12:01:10,814 INFO 75467 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 12:01:10,814 INFO 75467 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 12:01:36,893 INFO 75792 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 12:01:36,893 INFO 75792 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 12:01:37,907 INFO 75798 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 12:01:37,907 INFO 75798 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 12:01:49,697 INFO 75921 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 12:01:49,697 INFO 75921 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 12:01:51,148 INFO 75923 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 12:01:51,148 INFO 75923 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 12:02:37,087 INFO 76378 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 12:02:37,087 INFO 76378 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 12:02:38,488 INFO 76479 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 12:02:38,488 INFO 76479 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 12:02:55,969 INFO 76601 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 12:02:55,969 INFO 76601 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-01-03 20:20:28,398 INFO 26725 [Timer] /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 13171607ms at 2019-01-04 00:00:00.005
+2019-01-03 20:20:28,399 INFO 26725 [Timer] /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 13172602ms at 2019-01-04 00:00:01.001
+2019-01-03 20:20:28,187 INFO 26726 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-03 20:20:28,187 INFO 26726 [egg-schedule]: register schedule /Users/tugenhua/个人demo/egg/egg-demo1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
